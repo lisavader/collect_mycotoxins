@@ -16,15 +16,15 @@ class DatabaseID:
         self.database: str = database
         self.id: str = id
         self.url: str = ""
-    
-    """ Send HTTP request and handle HTTP errors"""
-    def lookup_url(self):
+     
+    def lookup_url(self) -> requests.Response:
+        """ Send HTTP request and handle HTTP errors"""
         for retries in range(3):
             try:
                 response=requests.get(self.url)
                 response.raise_for_status()
             except requests.HTTPError:
-                #Npatlas throws a 429 error once we've made too many requests, retrying after a minute is a solution
+                #Npatlas throws a 429 error once we've made too many requests, it seems waiting for a minute is the only solution
                 if response.status_code == 429:
                     print(self.database+":"+self.id+": HTTPError "+str(response.status_code)+": Sleeping for 60 seconds...")
                     time.sleep(60)
@@ -37,8 +37,8 @@ class DatabaseID:
             break
         return(response)
     
-    """ Search database to retrieve inchikey """
-    def get_inchikey(self):
+    def get_inchikey(self) -> str:
+        """ Search database to retrieve inchikey """
         inchikey = None
 
         try:
@@ -59,8 +59,11 @@ class DatabaseID:
                 inchikey=response.json().get("inchikey")
 
             elif self.database == "chemspider":
-                #For access to Chemspider an API key is needed (see: https://developer.rsc.org/get-started)
+                #For access to ChemSpider an API key is needed (see: https://developer.rsc.org/get-started)
                 api_key = "" #<-- input your API key here
+                if not api_key:
+                    logging.warning("No ChemSpider API key found")
+                    api_key = input("Enter ChemSpider API key:")
                 session=chemspipy.ChemSpider(api_key)
                 compound=session.get_compound(self.id)
                 inchikey=compound.inchikey
@@ -85,9 +88,9 @@ class Compound:
         self.inchikey: str = None
         self.mycotoxin: bool = False
     
-    """ Use associated database ids to find the inchikey and check if the compound is a mycotoxin """
     def is_mycotoxin(self,mycotoxin_inchikeys):
-        #Reorder database ids
+        """ Use associated database ids to find the inchikey and check if the compound is a mycotoxin """
+        #Reorder database ids (to search in order)
         database_order = {"chembl":0,"chebi":1,"npatlas":2,"chemspider":3,"pubchem":4}
         self.database_ids.sort(key=lambda val: database_order[val.database])
         
@@ -99,15 +102,17 @@ class Compound:
             if self.inchikey is not None:
                 break
         
+        #If the inchikey occurs in a list of mycotoxin inchikeys, add mycotoxin label
         if self.inchikey in mycotoxin_inchikeys:
             self.mycotoxin = True
     
-    """ Create summary of compound properties """
-    def summary(self):
+    def summary(self) -> list:
+        """ Create summary of compound properties """
         summary=[self.mibig_accession,self.index,self.name,self.inchikey]
         return summary
     
 def prefilter_mibig_entries(mibig_path,mycotoxin_formulas):
+    """ Find entries that contain a compound with a molecular formula matching a mycotoxin, or for which the molecular formula is unknown."""
     #List all .json files in MIBiG database
     print("Finding entries in database...")
     mibig_entries=set(glob.glob(mibig_path+"/*.json"))
@@ -117,11 +122,13 @@ def prefilter_mibig_entries(mibig_path,mycotoxin_formulas):
     filtered_entries=set()
     missing_formula_count=0
 
+    #Load json data for each entry
     for entry in mibig_entries:
         with open(entry, 'r') as json_file:
             bgc_data = json.load(json_file)
         #Find number of associated compounds
         compound_count=len(bgc_data["cluster"]["compounds"])
+        #If the compounds molecular formula matches a mycotoxin molecular formula, add entry to filtered list
         for i in range(0,compound_count):
             try:
                 molecular_formula=bgc_data["cluster"]["compounds"][i]["molecular_formula"]
@@ -129,7 +136,7 @@ def prefilter_mibig_entries(mibig_path,mycotoxin_formulas):
                     filtered_entries.add(entry)
                     break
             except KeyError:
-                #Add to filtered list if molecular formula is unknown (some annotations contain a database id but no mol formula)
+                #Add to filtered list if molecular formula is unknown
                 filtered_entries.add(entry)
                 missing_formula_count+=1
                 break
@@ -139,6 +146,8 @@ def prefilter_mibig_entries(mibig_path,mycotoxin_formulas):
     return(filtered_entries)  
 
 def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys): 
+    """ Find compounds in the MIBiG database that are considered mycotoxins, according to an inchikey match.
+        Return list with compound properties (MIBiG accession, index, name and inchikey)."""
     mycotoxin_mibig_data=[]
     missing_id_count=0
 
@@ -149,6 +158,7 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
         filename=os.path.basename(entry)
         mibig_accession=os.path.splitext(filename)[0]
 
+        #Load json data
         with open(entry, 'r') as json_file:
             bgc_data = json.load(json_file)
 
@@ -157,16 +167,20 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
         for i in range(0,compound_count):
             try:
                 compound_name=bgc_data["cluster"]["compounds"][i]["compound"]
+                #Store compound info in a new Compound object
                 compound=Compound(mibig_accession,i,compound_name)
-
+                #Retrieve a list of all database ids
                 id_list=bgc_data["cluster"]["compounds"][i]["database_id"]
+                #Store ids as DatabaseID objects, and add to database_ids attribute of the Compound object
                 for database_id in id_list:
                     database,id=database_id.split(":")
                     compound.database_ids.append(DatabaseID(database,id))
+                #If the compound is a mycotoxin, store compound properties (MIBiG ID, index, name and inchikey)
                 compound.is_mycotoxin(mycotoxin_inchikeys)
                 if compound.mycotoxin == True:
                     mycotoxin_mibig_data.append(compound.summary())
 
+            #Keep track of compounds without any database id
             except KeyError:
                 missing_id_count+=1
                 pass
@@ -174,6 +188,7 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
     if missing_id_count != 0:
         logging.warning(str(missing_id_count)+" compounds with missing database id!")
 
+    #Return data for all mycotoxin compounds
     return(mycotoxin_mibig_data)
 
 
@@ -198,11 +213,14 @@ def main(comptox_path,mibig_path):
 
 
 if __name__ == "__main__":
+    #Argument parsing
     parser = argparse.ArgumentParser()
     parser.add_argument("comptox_path", type=str, help="Path to a .csv file containing a CompTox list of mycotoxins (url:https://comptox.epa.gov/dashboard/chemical-lists/MYCOTOX2)")
     parser.add_argument("mibig_path", type=str, help="Path to a MIBiG database of annotations in .json format")
     parser.add_argument("-v","--verbose",help="Enable verbose mode",action="store_const",const=logging.INFO,dest="loglevel")
     args = parser.parse_args()
+    #Set logging level
     logging.basicConfig(level=args.loglevel)
+    #Run the main script
     main(args.comptox_path,args.mibig_path)
     
