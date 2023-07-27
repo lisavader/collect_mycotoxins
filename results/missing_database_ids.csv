@@ -1,0 +1,1595 @@
+accession,compound_index,compound_name
+BGC0000324,0,coelibactin
+BGC0002151,0,alboverticillin
+BGC0002659,0,TvgA-RiPP
+BGC0000766,0,exopolysaccharide
+BGC0001301,0,anthracimycin
+BGC0002656,0,oryzanaphthopyran A
+BGC0002656,1,oryzanaphthopyran B
+BGC0002656,2,oryzanaphthopyran C
+BGC0002656,3,oryzanthrone A
+BGC0002656,4,oryzanthrone B
+BGC0002656,5,chlororyzanthrone A
+BGC0002656,6,chlororyzanthrone B
+BGC0000951,0,pacidamycin 1
+BGC0000951,1,pacidamycin 2
+BGC0000951,2,pacidamycin 3
+BGC0000951,3,pacidamycin 4
+BGC0000951,4,pacidamycin 5
+BGC0000951,5,pacidamycin 6
+BGC0000951,6,pacidamycin 7
+BGC0002394,0,"taxa-4(5),11(12)-diene"
+BGC0002394,1,"taxa-4(20),11(12)-diene"
+BGC0000837,0,APE Vf
+BGC0001885,0,oxazolepoxidomycin A
+BGC0000316,0,capreomycin IA
+BGC0000316,1,capreomycin IB
+BGC0000316,2,capreomycin IIA
+BGC0002623,0,microginin
+BGC0000526,0,macedocin
+BGC0001634,0,keywimysin
+BGC0001728,0,paenilipoheptin
+BGC0001968,0,cadaside A
+BGC0001968,1,cadaside B
+BGC0001772,0,scytophycin
+BGC0001842,0,gacamide A
+BGC0002211,0,HEx-pks1 polyketide
+BGC0001504,0,amycomicin
+BGC0000736,0,capsular polysaccharide
+BGC0001432,0,myxochromide D
+BGC0000792,0,polysaccharide
+BGC0000764,0,exopolysaccharide
+BGC0001927,0,A-94964
+BGC0000536,0,nisin Q
+BGC0001823,0,weishanmycin
+BGC0001693,0,nenestatin
+BGC0001682,0,N-acyl lysine/ornithine
+BGC0000794,0,S-layer glycan
+BGC0002172,0,fusatrixin
+BGC0002172,1,fusapentaxin
+BGC0002681,0,rhizobactin
+BGC0001849,0,thiovarsolin A
+BGC0001849,1,thiovarsolin B
+BGC0001849,2,thiovarsolin C
+BGC0001849,3,thiovarsolin D
+BGC0000547,0,salivaricin 9
+BGC0000868,0,teichuronic acid
+BGC0001736,0,pepteridine A
+BGC0001736,1,pepteridine B
+BGC0002214,0,HEx-pks17 polyketide
+BGC0002392,0,"5,10-diketo-casbene"
+BGC0000944,0,staphyloferrin A
+BGC0001181,0,geosmin
+BGC0002297,0,MC-LR
+BGC0002297,1,MC-LHty
+BGC0002297,2,MC-HphHty
+BGC0002297,3,MC-LHph
+BGC0002297,4,MC-HphHph
+BGC0001568,0,cytorhodin
+BGC0001944,0,funisamine
+BGC0000864,0,eicosapentaenoic acid-like compound
+BGC0001171,0,listeriolysin S
+BGC0002226,1,acu-dioxomorpholine A
+BGC0000967,1,phosphocalyculin A
+BGC0000967,3,dephosphonocalyculin A
+BGC0001727,0,paenilan
+BGC0000291,0,A54145
+BGC0000796,0,S-layer glycan
+BGC0001407,0,bicereucin
+BGC0000606,0,lactazole
+BGC0000802,0,succinoglycan
+BGC0000411,0,putisolvin
+BGC0002622,0,hydroxycinnamoylputrescine
+BGC0001671,0,monobactam
+BGC0002465,0,amphibactin E
+BGC0002465,1,amphibactin H
+BGC0002465,2,amphibactin I
+BGC0000869,0,heterocyst glycolipids
+BGC0000331,0,cyanopeptolin
+BGC0000301,0,anabaenopeptin 908
+BGC0001641,0,kolossin
+BGC0000247,0,mithramycin
+BGC0002679,0,chromobactin
+BGC0002397,0,astallatene
+BGC0000577,0,sphingonodin II
+BGC0001289,0,penisin
+BGC0001223,0,hydroxysporine
+BGC0002166,1,intermediate 1
+BGC0002166,2,intermediate 2
+BGC0002686,0,madurastatin D1
+BGC0002686,1,madurastatin D2
+BGC0002686,2,(-)-Madurastatin C1
+BGC0001474,0,thiopeptin
+BGC0001330,1,BE-43547A2
+BGC0001330,2,BE-43547B1
+BGC0001330,3,BE-43547B2
+BGC0001330,4,BE-43547B3
+BGC0001330,5,BE-43547C1
+BGC0001330,6,BE-43547C2
+BGC0001191,0,A-102395
+BGC0001857,0,burnettramic acid A
+BGC0002687,0,massiliachelin
+BGC0001392,0,pinensins
+BGC0000760,0,emulsan
+BGC0000285,1,flaviolin rhamnoside
+BGC0000285,2,"3,3'-diflaviolin"
+BGC0002391,0,zealexin B2
+BGC0002391,1,zealexin C2
+BGC0001391,0,thusin
+BGC0000476,0,patellamide B
+BGC0001419,0,myxochromide D
+BGC0002180,1,"(2Z,4Z,6E)-octa-2,4,6-trienoic acid"
+BGC0001212,0,nannocystin a
+BGC0001222,0,acidocin B
+BGC0001559,1,crocagin B
+BGC0000791,0,O-antigen
+BGC0001542,0,cercosporin
+BGC0000567,0,trifolitoxin
+BGC0001784,0,streptoseomycin
+BGC0001135,0,bicornutin A1
+BGC0001135,1,bicornutin A2
+BGC0001196,0,desotamide
+BGC0001307,0,chaxapeptin
+BGC0001363,0,ralsolamycin
+BGC0000383,1,glidobactin A
+BGC0000383,2,cepafungin
+BGC0002010,0,streptophenazine B
+BGC0002010,1,streptophenazine C
+BGC0002010,2,streptophenazine F
+BGC0002010,3,streptophenazine G
+BGC0002010,4,streptophenazine H
+BGC0001013,0,meridamycin
+BGC0000996,1,frontalamide A
+BGC0000624,0,salivaricin CRL1328 α peptide
+BGC0000624,1,salivaricin CRL1328 β peptide
+BGC0002722,0,α-chaconine
+BGC0002722,1,α-solanine
+BGC0000617,0,coagulin
+BGC0001321,0,monoterpenes-diterpenes
+BGC0000817,0,methylarcyriarubin
+BGC0000518,0,informatipeptin
+BGC0002150,0,triculamin
+BGC0001824,0,xefoampeptides A-G
+BGC0002577,0,lactococcin G
+BGC0000429,0,skyllamycin A
+BGC0000429,1,skyllamycin B
+BGC0001226,0,streptocollin
+BGC0000496,0,AmfS
+BGC0000533,0,mutacin III
+BGC0001534,0,branched-chain fatty acids
+BGC0001608,0,glidopeptin
+BGC0000619,0,gassericin T
+BGC0001795,0,swinholide A
+BGC0000272,0,spore pigment
+BGC0001083,2,deschloro-merochlorin A
+BGC0001083,3,deschloro-merochlorin B
+BGC0001083,4,isochloro-merochlorin B
+BGC0001083,5,dichloro-merochlorin B
+BGC0000564,0,clostridiolysin S
+BGC0000668,11,3-(Z-2'-isocyanoethenyl)-indole
+BGC0001007,0,lymphostin
+BGC0001007,1,neolymphostinol B
+BGC0001007,2,lymphostinol
+BGC0001007,3,neolymphostin b
+BGC0002160,2,aspergillicin G
+BGC0000484,0,glycocin F
+BGC0001789,0,suicin 90-1330
+BGC0000749,0,capsular polysaccharide
+BGC0000734,0,capsular polysaccharide
+BGC0001813,0,tyrobetaine
+BGC0002122,0,gramicidin S
+BGC0002632,0,varlaxin 1046A
+BGC0002632,1,varlaxin 1022A
+BGC0001517,0,asperphenamate
+BGC0000566,0,streptolysin S
+BGC0002695,0,bacillibactin
+BGC0002695,1,bacillibactin E
+BGC0002695,2,bacillibactin F
+BGC0002630,0,thatisin
+BGC0002621,0,angustmycin A
+BGC0002621,1,angustmycin B
+BGC0002621,2,angustmycin C
+BGC0002621,3,aristeromycin
+BGC0002621,4,arabinofuranosyladenine
+BGC0000498,0,bovicin HJ50
+BGC0000551,0,SapB
+BGC0000779,0,lipopolysaccharide
+BGC0001756,0,retigeranin
+BGC0001756,1,arathanatriene
+BGC0002668,0,cesin A
+BGC0002165,3,compound 4
+BGC0002165,4,compound 6
+BGC0002165,5,compound 7
+BGC0002165,6,compound 9
+BGC0002165,7,compound 3
+BGC0002165,8,dehydroprobetaenone I
+BGC0002165,9,compound 5
+BGC0002203,0,beauveriolide B
+BGC0002203,1,beauveriolide C
+BGC0002203,2,beauveriolide D
+BGC0001388,0,gassericin E
+BGC0001596,0,fluostatins M-Q
+BGC0002284,1,corynecin I
+BGC0002284,2,corynecin II
+BGC0001687,0,N-tetradecanoyl tyrosine
+BGC0002652,0,cytosaminomycin F
+BGC0002652,1,cytosaminomycin G
+BGC0002652,2,streptcytosine P
+BGC0002652,3,plicacetin
+BGC0002652,4,40551-F
+BGC0002652,5,12F-plicacetin
+BGC0002652,6,streptcytosine D
+BGC0002652,7,streptcytosine E
+BGC0002703,0,archalan α
+BGC0000997,1,glidobactin B
+BGC0000997,2,glidobactin C
+BGC0000424,0,serobactin C
+BGC0000424,1,serobactin B
+BGC0000424,2,serobactin A
+BGC0000168,1,previridicatumtoxin
+BGC0000168,2,5-hydroxyanthrotainin
+BGC0000168,3,8-O-desmethylanthrotainin
+BGC0001461,0,nogabecin
+BGC0002167,1,morpholine containing hemiacetal piperazine compound
+BGC0002167,2,piperazine compound 2
+BGC0002167,3,piperazine compound 1
+BGC0002167,4,"3-(p-hydroxyphenyl)-1,2-propanediol"
+BGC0002167,5,"N,N-dioxide containing derivate"
+BGC0002167,6,O-sulfonated actinopolymorphol C
+BGC0002167,7,C-3 sulfonylated derivative
+BGC0001625,0,isofuranonaphthoquinone
+BGC0002708,0,(+)-δ-cadinol
+BGC0001904,0,fluostatin
+BGC0001867,0,prochlorosins
+BGC0002007,0,atolypene A
+BGC0002007,1,atolypene B
+BGC0000374,0,hormaomycin
+BGC0000374,1,hormaomycin A1
+BGC0000374,2,hormaomycin A2
+BGC0000374,3,hormaomycin A3
+BGC0000374,4,hormaomycin A4
+BGC0000374,5,hormaomycin A5
+BGC0000374,6,hormaomycin A6
+BGC0000497,0,BHT-Aα
+BGC0000497,1,BHT-Aβ
+BGC0001484,0,2'-chloropentostatin
+BGC0000178,0,elansolid A1
+BGC0001564,0,cusperin
+BGC0002403,0,β-Diketones
+BGC0001573,0,dihydrolysergic acid
+BGC0002626,0,microviridin 1688
+BGC0002626,1,microviridin 1739
+BGC0002626,2,microviridin 1748
+BGC0001941,0,fulvuthiacene A
+BGC0001941,1,fulvuthiacene B
+BGC0000571,0,burhizin
+BGC0000151,0,stambomycin A
+BGC0000151,1,stambomycin B
+BGC0000151,2,stambomycin C
+BGC0000151,3,stambomycin D
+BGC0000799,0,colanic acid
+BGC0001012,0,meridamycin
+BGC0002665,0,3-thiaglutamate
+BGC0001574,0,diisonitrile antibiotic SF2768
+BGC0001480,0,tundrenone
+BGC0001224,0,reductasporine
+BGC0001604,0,gibberellin
+BGC0000623,0,plantaricin W α
+BGC0000623,1,plantaricin W β
+BGC0001379,0,BD-12
+BGC0001753,1,globimycin
+BGC0001755,0,reedsmycins
+BGC0002571,0,pyoverdine DC3000
+BGC0001305,0,fujikurin A
+BGC0002646,0,hancockinone A
+BGC0000425,0,sessilin A
+BGC0001940,0,pyxidicycline A
+BGC0001940,1,pyxidicycline B
+BGC0002036,0,dehydrofosmidomycin
+BGC0002099,0,biarylite-YFH
+BGC0002170,0,4-methyl-5-dimethyltetradecahexaene-β-ketolactone
+BGC0002170,1,4-methyl-5-methylheptatriene-β-ketolactone
+BGC0001412,0,polysaccharide C
+BGC0002398,0,ent-quiannuatene
+BGC0001617,0,hirsutene
+BGC0001905,0,violapyrone B
+BGC0001503,0,amycolamycin A
+BGC0001503,1,amycolamycin B
+BGC0001366,1,zunyimycin A
+BGC0001917,0,"5-alkyl-1,2,3,4-tetrahydroquinolines"
+BGC0001917,1,streptoaminals
+BGC0001370,0,lipopeptide 8D1-1
+BGC0001370,1,lipopeptide 8D1-2
+BGC0000275,0,tetracenomycin C
+BGC0002018,0,azomycin
+BGC0001283,0,arsono-polyketide
+BGC0001669,0,microvionin
+BGC0000201,0,auricin
+BGC0000439,0,taromycin A
+BGC0001761,2,ripostatin C
+BGC0001799,0,thebaine
+BGC0002682,0,aerobactin
+BGC0002217,0,HEx-tc3 terpene
+BGC0001817,0,vancosamine
+BGC0001672,0,monobactam
+BGC0001739,0,phosphonoacetic Acid
+BGC0001439,0,antibiotic HKI 10311129
+BGC0001439,1,antibiotic A2121-1
+BGC0000759,0,diutan polysaccharide
+BGC0000492,0,lactocyclicin Q
+BGC0001356,0,paeninodin
+BGC0000594,0,microviridin K
+BGC0000580,0,xanthomonin I
+BGC0000580,1,xanthomonin II
+BGC0000590,0,microcin N
+BGC0000036,0,chlorothricin
+BGC0000036,1,deschlorothricin
+BGC0001700,0,niphimycins C-E
+BGC0001433,0,argimycin PI
+BGC0001433,1,argimycin PII
+BGC0001433,3,argimycin PIV
+BGC0001433,4,argimycin PV
+BGC0001433,5,argimycin PVI
+BGC0001433,6,argimycin PIX
+BGC0001316,0,linamarin
+BGC0000537,0,nisin U
+BGC0000485,0,acidocin B
+BGC0001452,0,sipanmycin
+BGC0001132,0,xenotetrapeptide
+BGC0001694,0,neoabyssomicin
+BGC0001694,1,abyssomicin
+BGC0000465,2,xenortide C
+BGC0001527,0,basidioferrin
+BGC0001874,0,cyclopiazonic acid
+BGC0001492,0,abyssomicin M
+BGC0001492,1,abyssomicin N
+BGC0001492,2,abyssomicin O
+BGC0001492,3,abyssomicin P
+BGC0001492,4,abyssomicin Q
+BGC0001492,5,abyssomicin R
+BGC0001492,6,abyssomicin S
+BGC0001492,7,abyssomicin T
+BGC0001492,8,abyssomicin U
+BGC0001492,9,abyssomicin V
+BGC0000920,0,polyhydroxyalkanoates
+BGC0000446,1,9-deoxy tilivalline
+BGC0000446,2,dihydroxy tilivalline
+BGC0000446,3,dehydro tilivalline
+BGC0000446,4,dihydroxy-dehydro tilivalline
+BGC0000538,0,nisin Z
+BGC0000525,0,lichenicidin VK21 A1
+BGC0000525,1,lichenicidin VK21 A2
+BGC0001887,0,huazacin
+BGC0000887,4,toxin C3
+BGC0000887,7,decarbamoylgonyautoxin 2
+BGC0000887,8,decarbamoylgonyautoxin 3
+BGC0000490,0,garvicin ML
+BGC0000918,0,ochronotic pigment
+BGC0000998,1,guadinomine B
+BGC0000998,2,guadinomic acid
+BGC0000504,0,cytolysin ClyLl
+BGC0000504,1,cytolysin ClyLs
+BGC0002452,0,leucomycin
+BGC0001877,0,cyphomycin
+BGC0001861,0,bacillicin BAG2O
+BGC0002704,0,archalan β
+BGC0002276,0,choline
+BGC0002661,0,tasikamide A
+BGC0002661,1,tasikamide B
+BGC0002661,2,tasikamide C
+BGC0000586,0,microcin E492
+BGC0001685,0,N-acyloxyacyl lysine
+BGC0000568,0,microcin B17
+BGC0001684,0,N-acyloxyacyl glutamine
+BGC0000344,0,entolysin
+BGC0000959,1,aspyridone B
+BGC0001882,0,chrysoxanthone A
+BGC0001882,1,chrysoxanthone B
+BGC0001882,2,chrysoxanthone C
+BGC0002190,8,2'3'-dihydrosorbicillinol
+BGC0002287,2,tyrvalin
+BGC0001570,0,deimino-antipain
+BGC0001364,0,cinnamycin B
+BGC0001996,0,oryzine A
+BGC0001996,1,oryzine B
+BGC0002698,0,phaeornamide
+BGC0002644,0,domoic acid
+BGC0002644,1,isodomoic acid A
+BGC0002644,2,isodomoic acid B
+BGC0002644,3,isodomoic acid C
+BGC0002644,4,7'-carboxy-L-NGG
+BGC0002644,5,prekainic acid
+BGC0002644,6,kainic acid
+BGC0000891,0,pentabromopseudilin
+BGC0002649,0,nocamycin V
+BGC0002461,0,aureonuclemycin
+BGC0001367,0,haliamide
+BGC0001726,0,pactamides
+BGC0001515,0,aspercryptins
+BGC0002624,0,fischerazole A
+BGC0002624,1,fischerazole B
+BGC0002624,2,fischerazole C
+BGC0001231,0,microsclerodermin
+BGC0001886,0,secalonic acids
+BGC0001732,0,paulomycin
+BGC0001681,0,N-acyl glycine
+BGC0002256,1,desacetylfusarochromene
+BGC0002256,3,4-hydroxykynurenine
+BGC0002025,0,thaxteramide C
+BGC0000494,0,uberolysin
+BGC0002262,0,trienylfuranol A
+BGC0002262,4,dihydroisosporothric acid
+BGC0002262,5,sporothric acid
+BGC0002262,6,isosporothric acid
+BGC0002262,7,sporochartine B
+BGC0000391,0,methylpendolmycin
+BGC0000391,1,pendolmycin
+BGC0002719,0,thanafactin A
+BGC0000534,0,mutacin K8
+BGC0002142,0,gargantulide B
+BGC0002142,1,gargantulide C
+BGC0001575,0,dipeptide aldehydes
+BGC0001423,0,myxochromide C
+BGC0002116,0,darobactin A
+BGC0001895,0,huanglongmycin A
+BGC0001895,1,huanglongmycin B
+BGC0001895,2,huanglongmycin C
+BGC0000572,0,capistruin
+BGC0002735,2,dentigerumycin F
+BGC0002735,3,dentigerumycin G
+BGC0000870,0,mycolic acid
+BGC0002444,0,epoxy-Janthitrems
+BGC0001230,5,salinamide F
+BGC0001230,6,desmethylsalinamide C
+BGC0001230,7,desmethylsalinamide E
+BGC0000261,0,R1128
+BGC0002274,1,aspulvinone B1
+BGC0001337,0,lazarimide A
+BGC0001337,1,lazarimide B
+BGC0001337,2,lazarimide C
+BGC0002323,0,nisin J
+BGC0002386,0,cyclo(n-Me-L-Leu-L-Val)
+BGC0002386,1,cyclo(n-Me-L-Leu-L-Leu)
+BGC0002386,2,cyclo(n-Me-L-Leu-L-Ile)
+BGC0000381,0,lichenysin
+BGC0001076,2,liposidomycin C
+BGC0001076,3,liposidomycin Z
+BGC0001076,4,liposidomycin H
+BGC0001076,5,liposidomycin G
+BGC0001076,6,liposidomycin L
+BGC0001076,7,liposidomycin M
+BGC0001076,8,liposidomycin K
+BGC0001076,9,liposidomycin N
+BGC0000897,0,dehydrophos
+BGC0002428,0,DDP-13
+BGC0002428,1,DDP-14
+BGC0001168,0,livipeptin
+BGC0001794,0,swainsonine
+BGC0000366,1,gobichelin B
+BGC0001471,0,saalfelduracin
+BGC0000584,0,colicin V
+BGC0001945,0,chloromyxamide
+BGC0001306,0,asperipin 2a
+BGC0001043,0,SGR PTMs
+BGC0001043,1,SGR PTM Compound b
+BGC0001043,2,SGR PTM Compound c
+BGC0001043,3,SGR PTM Compound d
+BGC0000403,0,pelgipeptin
+BGC0001229,0,SBI-06990 A1
+BGC0001229,1,SBI-06989 A2
+BGC0000493,0,leucocyclicin Q
+BGC0002721,0,α-hydroxynitrile glucoside
+BGC0002721,1,β-hydroxynitrile glucoside
+BGC0002721,2,γ-hydroxynitrile glucoside
+BGC0001656,0,luminaolide
+BGC0002677,0,nostoclide N1
+BGC0002677,1,nostoclide N2
+BGC0000842,0,carbapenem MM4550
+BGC0001854,0,tricholignan A
+BGC0002635,0,daspyromycin A
+BGC0002635,1,daspyromycin B
+BGC0001664,0,merosterol
+BGC0000985,2,dehydrodidemnin B (aplidine)
+BGC0001951,0,puwainaphycin F
+BGC0001951,1,minutissamide A
+BGC0002568,0,EDHA
+BGC0001979,0,LL-D49194α1 (LLD)
+BGC0001925,1,SB-203207
+BGC0001925,2,SB-203208
+BGC0001615,0,hexose-palythine-serine
+BGC0001615,1,hexose-shinorine
+BGC0001500,0,allocyclinone
+BGC0001178,0,"UK-68,597"
+BGC0001674,0,MS-271
+BGC0000557,0,streptococcin A-FF22
+BGC0001820,0,verticillin
+BGC0002706,0,saframycin Mx1
+BGC0001499,0,aerobactin
+BGC0001967,0,acyldepsipeptide 1
+BGC0001369,0,metatricycloene
+BGC0001203,0,clarexpoxcin
+BGC0002232,0,ergotamine
+BGC0002732,2,WS 79089D
+BGC0002691,0,amphibactin B
+BGC0002691,1,amphibactin C
+BGC0002691,2,amphibactin D
+BGC0002691,3,amphibactin E
+BGC0002691,4,amphibactin H
+BGC0002691,5,amphibactin S
+BGC0002691,6,amphibactin T
+BGC0002691,7,amphibactin V
+BGC0001380,0,salecan
+BGC0002731,1,nanangenine B
+BGC0002731,2,nanangenine C
+BGC0000763,0,stewartan
+BGC0001323,0,monoterpenes-diterpenes
+BGC0002636,0,streptophenazine 1
+BGC0002636,1,streptophenazine 2
+BGC0001430,0,myxochromide S
+BGC0001555,0,colicin V
+BGC0001639,0,klebsidin
+BGC0001324,0,monoterpenes-diterpenes
+BGC0000314,0,bromoalterochromide A
+BGC0000546,0,SAL-2242
+BGC0002222,0,zopfiellin
+BGC0002140,1,galtamycin D
+BGC0001456,0,isorenieratene
+BGC0000426,0,sevadicin
+BGC0001667,0,microcystin-LR
+BGC0001667,2,microcystin-LA
+BGC0001667,3,microcystin-LAba
+BGC0001667,4,microcystin-LM
+BGC0001667,5,microcystin-LV
+BGC0001667,6,microcystin-LL
+BGC0002400,0,boleracene
+BGC0001210,0,pseudomycoicidin
+BGC0000357,0,cyclo-(D-Phe-L-Phe-D-Val-L-Val)
+BGC0000357,1,cyclo-(D-Tyr-L-Phe-D-Val-L-Val)
+BGC0000357,2,cyclo-(D-Tyr-L-Trp-D-Val-L-Val)
+BGC0000357,3,cyclo-(D-Phe-L-Trp-D-Val-L-Val)
+BGC0000357,4,cyclo-(D-Phe-L-Phe-D-Val-L-Ile)
+BGC0000357,5,cyclo-(D-Phe-L-Phe-D-Ile-L-Val)
+BGC0000357,6,cyclo-(D-Tyr-L-Trp-D-Val-L-Ile)
+BGC0000357,7,cyclo-(D-Tyr-L-Trp-D-Ile-L-Val)
+BGC0000357,8,cyclo-(D-Tyr-L-Phe-D-Val-L-Ile)
+BGC0000357,9,cyclo-(D-Tyr-L-Phe-D-Ile-L-Val)
+BGC0002393,0,casbene
+BGC0002393,1,5a-hydroxy-casbene
+BGC0002393,2,5-keto-casbene
+BGC0002393,3,"5-keto-7,8-epoxy-casbene"
+BGC0002393,4,neocembrene
+BGC0002393,5,5-keto-neocembrene
+BGC0001760,0,rimosamide
+BGC0001505,0,anacyclamide D8P
+BGC0001505,1,sphaerocyclamide
+BGC0001865,0,elsinochrome C
+BGC0001603,0,gentamicin
+BGC0002654,0,lapcin
+BGC0002152,0,toxoflavin
+BGC0000578,0,SRO15-2005
+BGC0001999,0,gramibactin
+BGC0001837,0,leptolyngbyalide
+BGC0001593,0,ficellomycin
+BGC0002629,0,limnothamide
+BGC0001079,0,napyradiomycin A80915C
+BGC0001079,1,napyradiomycin 2
+BGC0001079,2,napyradiomycin 3
+BGC0001079,3,napyradiomycin 4
+BGC0000435,0,syringafactin
+BGC0001315,0,cucurbitacin
+BGC0002445,0,armillyl orsellinate
+BGC0002012,0,julichrome Q3-3
+BGC0002012,1,julichrome Q3-5
+BGC0001724,0,oxaleimide C
+BGC0000583,0,grisemycin
+BGC0002245,1,preterpestacin 3
+BGC0002245,2,preterpestacin 2
+BGC0002245,3,preterpestacin 1
+BGC0002517,0,tripartilactam
+BGC0001793,0,swainsonine
+BGC0001653,0,linfuranone B
+BGC0001653,1,linfuranone C
+BGC0001658,0,macrotermycins
+BGC0002701,0,paenithipeptin
+BGC0000195,0,alnumycin A
+BGC0000195,1,alnumycin B
+BGC0000195,2,alnumycin C
+BGC0000195,3,alnumycin P
+BGC0000195,4,prealnumycin
+BGC0000195,5,thalnumycin A
+BGC0000195,6,thalnumycin B
+BGC0000195,7,K1115A
+BGC0000195,8,"1,6-dihydro-8-propylanthraquinone"
+BGC0000520,0,lacticin 3147 A1
+BGC0000520,1,lacticin 3147 A2
+BGC0001737,0,phenalamide
+BGC0000992,1,"(3R,5S)-5-(4-hydroxybenzyl)-3-methyl-3-((2E,4E,6E,8E,10E)-4,8,10-trimethyldodeca-2,4,6,8,10-pentaenoyl)pyrrolidine-2,4-dione"
+BGC0001856,0,caniferolide A
+BGC0001856,1,caniferolide B
+BGC0001856,2,caniferolide C
+BGC0001856,3,caniferolide D
+BGC0000262,0,prejadomycin
+BGC0000262,2,gaudimycin C
+BGC0000262,3,gaudimycin D
+BGC0000262,4,UWM6
+BGC0000262,5,gaudimycin A
+BGC0001878,0,detoxin N2
+BGC0001878,1,detoxin N3
+BGC0001819,0,venemycin
+BGC0001005,0,locillomycin
+BGC0001005,1,locillomycin B
+BGC0001005,2,locillomycin C
+BGC0001389,0,cichopeptin
+BGC0000380,0,leupyrrin
+BGC0001686,0,N-octanoyl-Met-Phe-H
+BGC0000790,0,O-antigen
+BGC0002144,0,phazolicin
+BGC0001829,0,"α,β-epoxyketone"
+BGC0001470,0,macrobrevin
+BGC0001584,0,C-1027
+BGC0001779,0,siamycin
+BGC0001566,0,cylindrocyclophane
+BGC0000628,0,lactocillin
+BGC0000554,0,SRO15-3108
+BGC0002244,0,"3'-methoxy-1,2-dehydropenicillide"
+BGC0002244,3,"1,2-dehydropenicillide"
+BGC0002244,4,"3-methoxy-1,2-dehydropenicillide"
+BGC0002244,5,"1,2-epoxy-3,4-didehydropenicillide"
+BGC0001481,0,α-acorenol
+BGC0002227,0,AKML B
+BGC0002227,2,AKML A
+BGC0002227,3,AKML C
+BGC0001056,1,zeamine I
+BGC0001056,2,zeamine II
+BGC0001056,3,prezeamine
+BGC0001056,4,prezeamine I
+BGC0001702,0,nocamycin
+BGC0002013,0,curacozole
+BGC0001953,3,minutissamide C
+BGC0001953,4,minutissamide D
+BGC0000507,0,epicidin
+BGC0000447,1,tolaasin F
+BGC0000487,0,carnocyclin
+BGC0002585,0,ubericin K
+BGC0000529,0,microbisporicin A2
+BGC0002016,0,lugdunomycin
+BGC0000784,0,O-antigen
+BGC0000241,1,lomaiviticin C
+BGC0000241,2,lomaiviticin D
+BGC0001897,0,cepacin A
+BGC0002127,1,"1,3,6,8-tetrahydroxynaphthalene"
+BGC0000540,0,paenibacillin
+BGC0000555,0,staphylococcin C55 α
+BGC0000555,1,staphylococcin C55 β
+BGC0002061,1,nostopeptolide 1052
+BGC0001699,0,nidulanin A
+BGC0001027,1,nocobactin NA 10152B
+BGC0002324,3,myxochelin P
+BGC0002324,4,myxochelin Q
+BGC0000223,3,fluostatin G
+BGC0000223,4,fluostatin H
+BGC0002075,0,pyreudione A
+BGC0001427,0,myxochromide A
+BGC0002149,0,"14-(N,N-dimethylleucyloxy)paspalinine"
+BGC0002149,1,14-(leucyloxy)paspalinine
+BGC0002707,0,(+)-δ-cadinol
+BGC0000479,1,prenylagaramide C
+BGC0001713,0,ochrobactin
+BGC0001143,1,azanigerone B
+BGC0001143,2,azanigerone C
+BGC0001143,3,azanigerone D
+BGC0001143,4,azanigerone E
+BGC0001143,5,azanigerone F
+BGC0000815,1,N-acetylnorloline
+BGC0000815,2,N-formylloline
+BGC0002490,0,yersinopine
+BGC0000774,0,lipopolysaccharide
+BGC0001599,0,fragin
+BGC0002286,2,ririwpeptide C
+BGC0001610,0,gougerotin
+BGC0002317,0,herbicolin O
+BGC0002317,1,mcceh252
+BGC0001963,0,catenulisporolides
+BGC0001386,0,JBIR-76
+BGC0001386,1,JBIR-77
+BGC0002340,1,pyrroloformamide B
+BGC0001331,0,BE-43547A1
+BGC0001331,1,BE-43547A2
+BGC0001331,2,BE-43547B1
+BGC0001331,3,BE-43547B2
+BGC0001331,4,BE-43547B3
+BGC0001331,5,BE-43547C1
+BGC0001331,6,BE-43547C2
+BGC0002134,1,leupeptin B
+BGC0002134,2,leupeptin D
+BGC0002134,3,leupeptin C
+BGC0001633,0,ketomemicin B3
+BGC0001633,1,ketomemicin B4
+BGC0001785,0,streptovaricin
+BGC0002089,0,thaxtomin D
+BGC0002690,0,FW0622
+BGC0000196,0,AQ-256
+BGC0000196,1,AQ-270a
+BGC0000196,2,AQ-284a
+BGC0002657,0,deoxyhangtaimycin
+BGC0002302,0,glucorhamnan
+BGC0000213,0,colabomycin E
+BGC0001790,0,sulfazecin
+BGC0001583,0,emodin
+BGC0001890,0,amphi-enterobactin 1
+BGC0001890,1,amphi-enterobactin 2
+BGC0001890,2,amphi-enterobactin 3
+BGC0001890,3,amphi-enterobactin 4
+BGC0002035,1,ilicicolin J
+BGC0002035,2,8-epi-ilicicolin H
+BGC0002022,0,armeniaspirol A
+BGC0002022,1,armeniaspirol B
+BGC0002022,2,armeniaspirol C
+BGC0002660,0,pentacitidin A
+BGC0002660,1,pentacitidin B
+BGC0002736,0,preaspterpenacid I
+BGC0002559,0,J1-001-2
+BGC0000599,0,thuricin CD α
+BGC0000599,1,thuricin CD β
+BGC0001511,0,ansamitocin P-3
+BGC0002442,0,toyoncin
+BGC0000392,0,mirubactin
+BGC0001974,0,kainic acid
+BGC0001690,0,natamycin
+BGC0001520,1,aurantinin C
+BGC0001520,2,aurantinin D
+BGC0002680,0,viobactin
+BGC0001221,0,marinophenazine A
+BGC0000156,1,"1-(2,3,5,10-tetrahydroxy-7-methoxy-4-oxo-1,2,3,4-tetrahydroanthracen-2-yl)pentane-2,4-dione"
+BGC0000156,2,desmethyl TAN-1612
+BGC0000600,0,thurincin H
+BGC0000785,0,O-antigen
+BGC0000622,0,megacin
+BGC0000116,0,nystatin-like Pseudonocardia polyene
+BGC0002715,0,HTTPCA
+BGC0002715,1,prepiscibactin
+BGC0002715,2,piscibactin
+BGC0001624,0,iso-A82775C
+BGC0001535,0,branched-chain fatty acids
+BGC0001291,0,enterocin NKR-5-3B
+BGC0001853,0,largimiycin 38
+BGC0001853,1,largimycin 39
+BGC0001600,0,fusarielin H
+BGC0002597,0,nocuolactylates
+BGC0001552,0,citrulassin F
+BGC0001571,0,demethoxyviridin
+BGC0001516,0,aspergillic acid
+BGC0001847,0,1-carbapen-2-em-3-carboxylic acid
+BGC0001602,0,gassericin-T
+BGC0000801,0,galactoglucan
+BGC0002454,0,venturicidin D
+BGC0002454,1,venturicidin E
+BGC0002454,2,venturicidin F
+BGC0000323,0,cichofactin A
+BGC0000323,1,cichofactin B
+BGC0002716,0,gamexpeptide A
+BGC0002716,1,gamexpeptide B
+BGC0002716,2,gamexpeptide E
+BGC0002716,3,luminmide B
+BGC0002716,4,luminmide D
+BGC0002716,5,luminmide E
+BGC0002716,6,luminmide F
+BGC0002716,7,luminmide G
+BGC0000765,0,exopolysaccharide
+BGC0001862,0,pallidocin
+BGC0001843,0,tridecaptin M
+BGC0002676,0,skyllamycin D
+BGC0002676,1,skyllamycin E
+BGC0000921,0,promysalin
+BGC0000532,0,mutacin II
+BGC0000558,0,sublancin 168
+BGC0001622,0,isatropolone A
+BGC0001622,1,isotropolone B
+BGC0001622,2,isotropolone C
+BGC0001077,0,alkyl-O-dihydrogeranyl-methoxyhydroquinones
+BGC0000204,2,BE-43767
+BGC0000204,3,TAN1532B
+BGC0000972,0,N-myristoyl-D-asparagine
+BGC0000972,1,cis-7-tetradecenoyl-D-asparagine
+BGC0000972,2,(R)-N1-((S)-5-oxohexan-2-yl)-2-tetradecanamidosuccinamide
+BGC0001765,0,salecan
+BGC0001618,0,hyicin 3682
+BGC0001536,0,brevicidine
+BGC0000516,0,geobacillin II
+BGC0001179,0,rishirilide B
+BGC0001179,1,rishirilide A
+BGC0001884,0,aranazole A
+BGC0001884,1,aranazole B
+BGC0001884,2,aranazole C
+BGC0001884,3,aranazole D
+BGC0001034,1,pellasoren B
+BGC0002154,1,"1-(alpha-l-(2-O-methyl)-6-deoxymannopyranosyloxy)-3,6,8-trimethoxynaphthalene"
+BGC0001202,0,landepoxcin
+BGC0002631,0,myxarylin
+BGC0001889,0,fusilassin
+BGC0002028,0,frigocyclinone
+BGC0000626,0,thuricin
+BGC0001498,0,aerobactin
+BGC0002648,0,eicosapentaenoic acid
+BGC0000506,0,entianin
+BGC0001869,2,phenaszentine A
+BGC0001869,3,phenaszentine C
+BGC0001869,4,phenaszenketide C
+BGC0001869,5,phenaszenketide D
+BGC0001130,0,fabclavine Ia
+BGC0001130,1,fabclavine Ib
+BGC0001130,2,fabclavine IIa
+BGC0001130,3,fabclavine IIb
+BGC0001660,0,mathermycin
+BGC0000130,0,pyrrolomycin A
+BGC0002198,1,terreazepine
+BGC0000756,0,capsular polysaccharide
+BGC0001808,0,toyocamycin
+BGC0002579,0,carnobacteriocin XY
+BGC0001589,0,exopolysaccharides
+BGC0000903,0,fluorometabolite
+BGC0001513,0,anthrabenzoxocinone
+BGC0000781,0,O-antigen
+BGC0002213,0,HEx-pks16 polyketide
+BGC0002401,0,euphol
+BGC0002711,0,nostovalerolactone
+BGC0002711,1,9-dehydronostovalerolactone
+BGC0001931,0,carrimycin
+BGC0001187,0,xenolozoyenone
+BGC0000937,1,fosfazinomycin B
+BGC0002688,0,benarthin
+BGC0002688,1,dibenarthin
+BGC0002337,0,class IV lanthipeptide
+BGC0002337,1,SflA
+BGC0001709,0,nystatin
+BGC0002639,0,phospho-tyrolose
+BGC0002639,1,tyrolose
+BGC0002639,2,tyrolitol
+BGC0002639,3,tyrocitabine-626
+BGC0002639,4,acyl-tyrocitabine-668
+BGC0002639,5,acyl-tyrocitabine-696
+BGC0002639,6,acyl-tyrocitabine-724
+BGC0002639,7,acyl-tyrocitabine-752
+BGC0000797,0,sphingan polysaccharide
+BGC0002683,0,schizokinen
+BGC0001365,0,clapurines
+BGC0001781,0,sphaericin
+BGC0001329,0,rakicidin D
+BGC0001541,0,cercosporin
+BGC0000513,0,Ery-9
+BGC0000513,1,Ery-6
+BGC0000513,2,Ery-8
+BGC0000513,3,Ery-7
+BGC0000513,4,Ery-5
+BGC0000513,5,Ery-4
+BGC0000513,6,Ery-3
+BGC0001657,0,lysocin
+BGC0002026,0,thaxteramide A1
+BGC0002026,1,thaxteramide A2
+BGC0002026,2,thaxteramide B1
+BGC0002026,3,thaxteramide B2
+BGC0001425,0,myxochromide A
+BGC0001590,0,formicamycins A-M
+BGC0001182,0,chaetoglobosins
+BGC0002625,0,desmamide A
+BGC0002625,1,desmamide B
+BGC0002625,2,desmamide C
+BGC0001420,0,myxochromide D
+BGC0000542,0,paenicidin B
+BGC0001648,0,lasalocid
+BGC0001835,0,gynuellalide
+BGC0000589,0,microcin M
+BGC0000200,0,arixanthomycin A
+BGC0000200,1,arixanthomycin B
+BGC0000200,2,arixanthomycin C
+BGC0002215,0,HEx-pks23 polyketide
+BGC0000758,0,capsular polysaccharide
+BGC0001554,0,coenzyme F430
+BGC0002168,5,dioic acid moiety
+BGC0000755,0,capsular polysaccharide
+BGC0002710,0,metachelin C
+BGC0002710,1,metachelin A
+BGC0002710,2,metachelin A-CE
+BGC0002710,3,metachelin B
+BGC0002710,4,dimerumic acid 11-mannoside
+BGC0002710,5,dimerumic acid
+BGC0000782,0,O-antigen
+BGC0002402,0,yossosides
+BGC0001788,0,suicin 65
+BGC0001128,0,gamexpeptide C
+BGC0000757,0,capsular polysaccharide
+BGC0001335,0,borregomycin A
+BGC0001987,0,koreenceine A
+BGC0001987,1,koreenceine B
+BGC0001987,2,koreenceine C
+BGC0001987,3,koreenceine D
+BGC0001562,0,curacomycin
+BGC0002321,2,cyclodileucine
+BGC0002321,3,compound 3
+BGC0000451,0,turnerbactin
+BGC0001844,0,holrhizin
+BGC0001733,0,PcpA
+BGC0001033,0,paenilamicin
+BGC0001033,1,paenilamicin A2
+BGC0001033,2,paenilamicin B1
+BGC0001033,3,paenilamicin B2
+BGC0000762,0,exopolysaccharide
+BGC0002667,0,estericin A
+BGC0002447,0,cerecyclin
+BGC0000597,0,SWA-2138
+BGC0002724,0,casbene
+BGC0000787,0,O-antigen
+BGC0000549,0,salivaricin D
+BGC0002325,0,mycetohabin-16
+BGC0001922,0,isoindolinomycin
+BGC0000491,0,gassericin A
+BGC0002100,0,colibrimycin
+BGC0001623,0,ishigamide
+BGC0002406,0,hydroxycinnamoyltyramine
+BGC0001872,0,fabclavine-polyamine
+BGC0000604,0,GE2270A
+BGC0002042,0,anthelvencin A
+BGC0002042,1,anthelvencin B
+BGC0001396,0,aldgamycin J
+BGC0001396,1,aldgamycin K
+BGC0001396,2,aldgamycin P
+BGC0001654,0,lipooligosaccharide
+BGC0000769,0,glycopeptidolipid
+BGC0001984,0,sarpeptin A
+BGC0001984,1,sarpeptin B
+BGC0001680,0,N-acyl alanine
+BGC0002002,1,fontizine A
+BGC0000365,0,glycopeptidolipid
+BGC0000364,0,glycopeptidolipid
+BGC0001550,0,citrulassin D
+BGC0001748,0,pseudospumigin A
+BGC0001748,1,pseudospumigin B
+BGC0001748,2,pseudospumigin C
+BGC0001748,3,pseudospumigin D
+BGC0001748,4,pseudospumigin E
+BGC0001748,5,pseudospumigin F
+BGC0000778,0,lipopolysaccharide
+BGC0000541,0,paenicidin A
+BGC0002637,0,rimomycin A
+BGC0002637,1,rimomycin B
+BGC0002637,2,rimomycin C
+BGC0001540,0,CC-1065
+BGC0001831,0,alkylpyrone-407
+BGC0001831,1,alkylpyrone-393
+BGC0002389,0,β-bisabolene
+BGC0002389,1,β-macrocarpene
+BGC0000387,0,mangotoxin
+BGC0001572,0,desferrioxamine E
+BGC0001556,0,combamide
+BGC0000552,0,SmbA
+BGC0000552,1,SmbB
+BGC0001522,0,auroramycin
+BGC0001952,2,minutissamide D
+BGC0002674,0,enterocin F4-9
+BGC0001297,0,WS9326
+BGC0001376,1,hexaricin B
+BGC0001376,2,hexaricin C
+BGC0002575,0,cochonodin I
+BGC0000530,0,mutacin B-Ny266
+BGC0001743,0,plantaricyclin
+BGC0000560,0,subtilomycin
+BGC0001428,0,myxochromide A
+BGC0001587,0,ethylenediaminesuccinic acid hydroxyarginine (EDHA)
+BGC0002666,0,legonindolizidine A6
+BGC0001959,0,taylorflavin A
+BGC0001959,1,taylorflavin B
+BGC0000305,0,arthrofactin A
+BGC0001966,0,BII-rafflesfungin
+BGC0002377,0,WS9326B
+BGC0001646,0,lagriamide
+BGC0001742,0,piericidin A1
+BGC0000761,0,exopolysaccharide
+BGC0000198,0,arenimycin A
+BGC0000616,0,amylocyclicin
+BGC0001747,0,pseudaminic acid
+BGC0002318,0,canucin A
+BGC0002318,1,canucin B
+BGC0002645,0,fluopsin C
+BGC0000573,0,caulonodin I
+BGC0000573,1,caulonodin II
+BGC0001318,0,linamarin
+BGC0001318,1,lotaustralin
+BGC0001627,0,isonitrile lipopeptides
+BGC0001022,1,myxalamid A
+BGC0001022,2,myxalamid C
+BGC0001022,3,myxalamid D
+BGC0001507,0,anantin C
+BGC0002713,0,mevalagmapeptide A
+BGC0002713,1,mevalagmapeptide B
+BGC0002713,2,mevalagmapeptide C
+BGC0002713,3,mevalagmapeptide D
+BGC0002173,1,compound 3
+BGC0002173,2,"21-β-H-hopane-3beta, 22-diol"
+BGC0001814,0,ulleungmycin
+BGC0002689,0,"2,3-dihydroxybenzoylserine"
+BGC0001791,0,sunshinamide
+BGC0001950,0,puwainaphycin F
+BGC0001950,1,minutissamide A
+BGC0001876,0,thalassospiramide A
+BGC0002017,0,potensibactin
+BGC0001346,0,bananamide 1
+BGC0001346,1,bananamide 2
+BGC0001346,2,bananamide 3
+BGC0001614,0,hassallidin E
+BGC0001841,0,detoxin P1
+BGC0001841,1,detoxin P2
+BGC0001841,2,detoxin P3
+BGC0001665,0,methylated alkyl-resorcinol
+BGC0001665,1,methylated acyl-phloroglucinol
+BGC0000561,0,thermophilin 1277
+BGC0001692,0,nematophin
+BGC0001445,0,leporin B
+BGC0001649,0,lavendiol
+BGC0000499,0,butyrivibriocin OR79
+BGC0001850,2,diazaquinomycin F
+BGC0001850,3,diazaquinomycin G
+BGC0000248,0,α naphtocyclinoic acid
+BGC0000248,1,fogacin
+BGC0001786,0,subterisin
+BGC0002693,0,pyoverdine SMX-1
+BGC0002229,0,6-MSA
+BGC0002640,0,thalassomonasin A
+BGC0002640,1,thalassomonasin B
+BGC0000562,0,variacin
+BGC0001638,0,klebsazolicin
+BGC0001762,0,rubrolone A
+BGC0001762,1,rubrolone B
+BGC0001529,0,benzastatin J
+BGC0001529,1,7-hydroxyl benzastatin B
+BGC0001529,2,7-hydroxyl O-demethylbenzastatin A
+BGC0001529,3,JBIR-67
+BGC0001529,4,7-hydroxyl benzastatin F
+BGC0001529,5,7-hydroxyl O-demethylbenzastatin D
+BGC0001529,6,O-demethylvirantmycin
+BGC0001529,7,7-hydroxyl benzastatin D
+BGC0001529,8,virantmycin
+BGC0001529,9,benzastatin K
+BGC0001529,10,methylbenzastatin K
+BGC0001873,0,pyrrolizixenamide A
+BGC0002147,0,bohemamine A
+BGC0002147,1,bohemamine B
+BGC0002147,2,bohemamine C
+BGC0000502,0,cerecidin
+BGC0000502,1,cerecidin A1
+BGC0000502,2,cerecidin A2
+BGC0000502,3,cerecidin A3
+BGC0000502,4,cerecidin A4
+BGC0000502,5,cerecidin A5
+BGC0000502,6,cerecidin A6
+BGC0000502,7,cerecidin A7
+BGC0001907,0,chromane
+BGC0000676,3,17-deoxyaphidicolin
+BGC0001197,0,frankiamicin
+BGC0000219,0,elloramycin
+BGC0002641,0,bacillothiazol A
+BGC0002641,1,bacillothiazol B
+BGC0002641,2,bacillothiazol C
+BGC0002641,3,bacillothiazol D
+BGC0002641,4,bacillothiazol E
+BGC0002641,5,bacillothiazol F
+BGC0002641,6,bacillothiazol G
+BGC0002641,7,bacillothiazol H
+BGC0002641,8,bacillothiazol I
+BGC0002641,9,bacillothiazol J
+BGC0002641,10,bacillothiazol K
+BGC0002641,11,bacillothiazol L
+BGC0002641,12,bacillothiazol M
+BGC0002641,13,bacillothiazol N
+BGC0002034,0,perquinoline A
+BGC0002034,1,perquinoline B
+BGC0002034,2,perquinoline C
+BGC0002273,0,butyrolactone III
+BGC0000949,0,A-500359 A
+BGC0000949,1,A-500359 B
+BGC0002288,0,B
+BGC0002288,1,ashimides A
+BGC0001964,0,alkylpyrone-407
+BGC0001964,1,alkylpyrone-393
+BGC0000173,1,bongkrekic acid
+BGC0001800,0,theonellamide
+BGC0001032,0,oocydin A
+BGC0000850,0,γ-butyrolactone
+BGC0000574,0,caulosegnin I
+BGC0000574,1,caulosegnin II
+BGC0000574,2,caulosegnin III
+BGC0002139,0,burnettiene A
+BGC0002139,1,preburnettiene B
+BGC0002139,2,preburnettiene A
+BGC0000483,1,aeruginosamide C
+BGC0000559,0,subtilin
+BGC0002396,0,tanshinones
+BGC0001509,0,anikasin
+BGC0001378,0,tiancimycin
+BGC0002143,0,griseusin
+BGC0000369,0,hassallidin C
+BGC0001416,0,nunapeptin
+BGC0001416,1,nunamycin
+BGC0002470,0,synechobactin C9
+BGC0002470,1,synechobactin C11
+BGC0002470,2,synechobactin 13
+BGC0002470,3,synechobactin 14
+BGC0002470,4,synechobactin 16
+BGC0001486,0,3-thiaglutamate
+BGC0000416,0,rhabdopeptide 1
+BGC0000416,1,rhabdopeptide 2
+BGC0000416,2,rhabdopeptide 3
+BGC0000416,3,rhabdopeptide 4
+BGC0000786,0,O-antigen
+BGC0002111,1,andalusicin B
+BGC0000986,0,dkxanthene 530
+BGC0000986,1,dkxanthene 556
+BGC0000986,3,dkxanthene 504
+BGC0000986,4,dkxanthene 508
+BGC0000986,5,dkxanthene 518
+BGC0000986,6,dkxanthene 520
+BGC0000986,7,dkxanthene 534
+BGC0000986,8,dkxanthene 544
+BGC0000986,9,dkxanthene 548
+BGC0000986,10,dkxanthene 560
+BGC0000986,11,dkxanthene 574
+BGC0000986,12,dkxanthene 586
+BGC0001580,0,ebelactone
+BGC0002692,0,speibonoxamine
+BGC0002692,1,desoxy-desferrioxamine D1
+BGC0002692,2,desferrioxamine D1
+BGC0002692,3,desferrioxamine B
+BGC0002692,4,didesoxy-desferrioxamine D1
+BGC0002692,5,desoxy-desferrioxamine B
+BGC0002692,6,didesoxy-desferrioxamine B
+BGC0001598,0,foxicin A
+BGC0001598,1,foxicin B
+BGC0001598,2,foxicin C
+BGC0001598,3,foxicin
+BGC0001836,0,tartrolon D
+BGC0001836,1,tartrolon F
+BGC0001836,2,tartrolon G
+BGC0002524,0,bacicyclicin XIN-1
+BGC0000284,0,phenolic lipids
+BGC0000768,0,gellan polysaccharide
+BGC0001408,0,xanthoferrin
+BGC0002530,0,brucebactin
+BGC0000867,0,polyhydroxyalkanoic acids
+BGC0000240,1,lomaiviticin C
+BGC0000240,2,lomaiviticin D
+BGC0000227,0,granaticin
+BGC0001934,0,armeniaspirols
+BGC0000421,1,safracin B
+BGC0000515,0,geobacillin I
+BGC0000807,0,phosphonoglycans
+BGC0000351,0,exochelin
+BGC0001605,0,gibberellin
+BGC0002224,0,zopfiellin
+BGC0001278,11,trichodiene
+BGC0000595,0,SCO-2138
+BGC0001431,0,myxochromide S
+BGC0001705,0,nodularin
+BGC0002672,0,saccharothrixin D
+BGC0002672,1,saccharothrixin E
+BGC0002672,2,saccharothrixin F
+BGC0002672,3,saccharothrixin G
+BGC0002672,4,saccharothrixin H
+BGC0002672,5,saccharothrixin I
+BGC0002672,6,saccharothrixin J
+BGC0002672,7,saccharothrixin K
+BGC0002672,8,saccharothrixin L
+BGC0002672,9,saccharothrixin M
+BGC0002663,0,amyloliquecidin GF610
+BGC0002290,2,compound 3
+BGC0002290,3,4-hydroxy-3-prenylbenzoic acid
+BGC0002290,4,prenylhydroquinone
+BGC0002290,5,compound 15
+BGC0002290,6,compound 8
+BGC0002290,7,compound 7
+BGC0002290,8,compound 6
+BGC0002290,9,compound 11
+BGC0002290,10,compound 12
+BGC0002290,11,pestalodiol E
+BGC0001298,0,4-Z-annimycin
+BGC0002580,0,lactococcin MN
+BGC0001863,0,bacillicn CER074
+BGC0002489,0,pseudopaline
+BGC0001938,0,entotheonella
+BGC0002662,0,petrichorin A
+BGC0002662,1,petrichorin B
+BGC0000804,2,acarviostatin III03
+BGC0000804,3,acarviostatin IV03
+BGC0002216,0,HEx-tc1 terpene
+BGC0002008,0,aryl polyenes
+BGC0001524,0,barnesin A
+BGC0002448,0,Q6402A
+BGC0002421,0,malleobactin LB400
+BGC0001328,0,rakicidin A
+BGC0001328,1,rakicidin B
+BGC0001551,0,citrulassin E
+BGC0000348,0,ergovaline
+BGC0001313,0,arabidiol-baruol
+BGC0000795,0,S-layer glycan
+BGC0001134,2,photopyrone C
+BGC0001134,4,photopyrone E
+BGC0001134,5,photopyrone F
+BGC0001134,6,photopyrone G
+BGC0001134,7,photopyrone H
+BGC0002643,0,aetokthonotoxin
+BGC0001928,0,"(2R,3S,4S)-5-fluoro-2,3,4-trihydroxypentanoic acid"
+BGC0001436,0,cornexistin
+BGC0002228,0,CIML B
+BGC0002228,1,CIML A
+BGC0002228,3,CIML C
+BGC0002239,0,GKK1032 A2
+BGC0002653,0,macolacin
+BGC0002161,1,T3HN
+BGC0001888,0,mannosylerythritol lipid A
+BGC0001888,1,mannosylerythritol lipid B
+BGC0001888,2,mannosylerythritol lipid C
+BGC0002267,0,azasperpyranone A
+BGC0002267,1,azasperpyranone B
+BGC0002267,2,azasperpyranone C
+BGC0002267,3,azasperpyranone D
+BGC0002267,4,azasperpyranone E
+BGC0002267,5,azasperpyranone F
+BGC0002267,6,azasperpyranone G
+BGC0002267,7,azasperpyranone H
+BGC0000500,0,carnolysin A1
+BGC0000500,1,carnolysin A2
+BGC0001588,0,exopolysaccharides
+BGC0001426,0,myxochromide A
+BGC0001771,0,scleric acid
+BGC0001479,1,nostamide A
+BGC0001549,0,citrulassin B
+BGC0001525,0,bartoloside 2
+BGC0001525,1,bartoloside 3
+BGC0001525,2,bartoloside 4
+BGC0002250,0,triticone D
+BGC0002250,1,triticone E
+BGC0002250,4,triticone F
+BGC0002250,5,triticone C
+BGC0001586,0,EPS273
+BGC0001591,0,fatty acid enol ester
+BGC0001591,1,N-tetradecanoyl tyrosine
+BGC0001424,0,myxochromide C
+BGC0002220,0,Ent-kauren-16alpha-ol
+BGC0000363,0,glycopeptidolipid
+BGC0002064,0,felipeptin A2
+BGC0002064,1,felipeptin A1
+BGC0002009,0,kanglemycin A
+BGC0002009,1,kanglemycin V1
+BGC0002009,2,kanglemycin V2
+BGC0002550,0,lobophorin CR4
+BGC0001438,0,warkmycin CS1
+BGC0001438,1,warkmycin CS2
+BGC0002436,0,coformycin
+BGC0002700,0,bacinapeptin
+BGC0000964,0,burkholdac A
+BGC0000964,1,burkholdac B
+BGC0002694,0,roseobactin
+BGC0001833,0,icosalide A
+BGC0001833,1,icosalide B
+BGC0001721,0,ornibactin
+BGC0001048,1,tallysomycin B
+BGC0002110,0,birimositide
+BGC0000596,0,SLI-2138
+BGC0001703,0,nocuolin A
+BGC0002153,0,lasonolide A
+BGC0001636,0,KK-1
+BGC0001777,0,shearinine D
+BGC0001666,0,microansamycin
+BGC0000588,0,microcin L
+BGC0000464,0,xenoamicin A
+BGC0000464,1,xenoamicin B
+BGC0002235,0,ACE1
+BGC0002326,0,endopyrrole B
+BGC0002326,1,endopyrrole C
+BGC0002326,2,endopyrrole A
+BGC0001826,0,xeneprotides A-C
+BGC0002670,0,fosfonochlorin
+BGC0001567,0,cysteoamide
+BGC0002011,0,ansacarbamitocin A
+BGC0000780,0,O&K-antigen
+BGC0001864,0,listeriocytocin
+BGC0000107,0,naphthopyrone
+BGC0000427,0,shinorine
+BGC0000427,1,4-deoxygadusol
+BGC0000427,2,mycosporine glycine
+BGC0001960,0,hiroshidine
+BGC0001485,0,chuangxinmycin
+BGC0002221,0,ent-kauren-16alpha-ol
+BGC0000282,0,alkylresorcinol
+BGC0001801,0,thiazostatin
+BGC0001801,3,2-hydroxyphenylthiazoline enantiopyochelin
+BGC0001801,4,isopyochelin
+BGC0000556,0,streptin
+BGC0000020,1,ansamitocin P-3
+BGC0000368,0,griseobactin
+BGC0000519,0,labyrinthopeptin A2
+BGC0000519,1,labyrinthopeptin A1
+BGC0000519,2,labyrinthopeptin A3
+BGC0002588,0,enduracididine
+BGC0002404,0,falcarindiol
+BGC0002723,0,casbene
+BGC0001637,0,kleboxymycin
+BGC0002006,0,albusnodin
+BGC0001211,0,albachelin
+BGC0002405,0,mid-chain acyl sugars
+BGC0000511,0,ericin S
+BGC0001719,1,olimycin B
+BGC0001611,0,guangnanmycin
+BGC0002196,0,clavatol
+BGC0000593,0,microviridin J
+BGC0000877,1,polyoxin H
+BGC0000871,0,VEPE
+BGC0000871,1,AEPE
+BGC0000871,2,TG-1
+BGC0001413,2,cystobactamid 919-3
+BGC0002422,0,histicorrugatin
+BGC0002696,0,heterobactin B
+BGC0002696,1,heterobactin S2
+BGC0001418,0,myxochromide D
+BGC0002729,0,sordarial
+BGC0000199,1,arimetamycin C
+BGC0001858,0,alternapyrone B
+BGC0001858,1,alternapyrone C
+BGC0001858,2,alternapyrone D
+BGC0001858,3,alternapyrone E
+BGC0001858,4,alternapyrone F
+BGC0001954,0,wortmanamide A
+BGC0001954,1,wortmanamide B
+BGC0002734,0,"2,4-dihydroxy-5,6-dimethyl benzaldehyde"
+BGC0001565,0,cyclosporin C
+BGC0001496,0,actinokineosin
+BGC0000505,0,enterocin W α
+BGC0000505,1,enterocin W β
+BGC0001811,0,trichodiene-11-one
+BGC0002627,0,kamptornamide
+BGC0002399,0,caprutriene
+BGC0002336,0,gladiochelin A1
+BGC0002336,1,gladiochelin B2
+BGC0001767,0,salinichelins
+BGC0001561,0,curacomycin
+BGC0000587,0,microcin H47
+BGC0001707,0,nosiheptide
+BGC0002675,0,di-pyrrolyl-dipyrromethene prodigiosin
+BGC0001411,0,polysaccharide B
+BGC0002441,0,o-dialkylbenzene 1
+BGC0002441,1,o-dialkylbenzene 2
+BGC0000579,0,SSV-2083
+BGC0002647,0,massinidine
+BGC0000350,0,ET-743
+BGC0000563,0,venezuelin
+BGC0001217,0,PreQ0 Base
+BGC0001787,0,suicin 3908
+BGC0002642,0,clipibycyclene
+BGC0001251,0,epichloenin A
+BGC0001227,0,isorenieratene
+BGC0001752,0,qinichelins
+BGC0000548,0,salivaricin A
+BGC0000898,1,pikromycin
+BGC0000898,2,neomethymycin
+BGC0000898,3,narbomycin
+BGC0001735,0,pentostatine
+BGC0001735,1,vidarabine
+BGC0001906,0,naphthalene
+BGC0001683,0,N-acyl serinol
+BGC0002395,0,hordediene
+BGC0002395,1,11-hydroxy-hordetriene
+BGC0002395,2,hordetriene
+BGC0000517,0,haloduracin β
+BGC0000517,1,haloduracin α
+BGC0001140,2,thioplatensimycin
+BGC0001140,3,thioplatencin
+BGC0002236,0,8-methyldiaporthin
+BGC0001838,0,WLIP
+BGC0001569,0,dechlorocuracomycin
+BGC0002146,0,FR901483
+BGC0000886,0,allylmalonyl-CoA
+BGC0000922,0,pseudomonas quinolone signal (PQS)
+BGC0002001,0,crochelin A
+BGC0000449,0,tridecaptin
+BGC0001840,0,detoxin S1
+BGC0001473,0,Sch 18640
+BGC0002699,0,nostolysamide A
+BGC0002699,1,nostolysamide B
+BGC0002449,0,sarasinoside
+BGC0000232,3,hatomarubigin D
+BGC0001929,0,WGK
+BGC0001544,0,chlorflavonin
+BGC0000866,0,polyhydroxyalkanoate
+BGC0000767,0,exopolysaccharide
+BGC0002005,0,RaxX
+BGC0001677,0,mycophenolic acid
+BGC0001894,0,heteropolysaccharide (HePS)
+BGC0000836,0,APE Ec
+BGC0000315,0,CDA1b
+BGC0000315,1,CDA2a
+BGC0000315,2,CDA2b
+BGC0000315,3,CDA3a
+BGC0000315,4,CDA3b
+BGC0000315,5,CDA4a
+BGC0002020,0,photolose
+BGC0001601,0,gassericin-S
+BGC0001991,0,toblerol A
+BGC0001991,1,toblerol B
+BGC0001991,2,toblerol C
+BGC0001991,3,toblerol D
+BGC0001991,4,toblerol E
+BGC0001991,5,toblerol F
+BGC0001991,6,toblerol G
+BGC0001991,7,toblerol H
+BGC0000489,0,enterocin AS-48
+BGC0001696,0,neothioviridamide
+BGC0000150,0,sporolide A
+BGC0002162,2,compound 6
+BGC0002162,3,compound 7a
+BGC0002162,4,compound 5
+BGC0002162,5,compound 8
+BGC0000570,0,astexin-1
+BGC0000486,0,butyrivibriocin AR10
+BGC0002206,2,isoharziphilone-1
+BGC0002206,3,isoharziphilone-2
+BGC0002206,4,compound 4
+BGC0002206,5,compound 1
+BGC0001579,0,duramycin
+BGC0001493,0,achromosin
+BGC0001969,0,asperterpenoid A
+BGC0000553,0,SRO15-2212
+BGC0001701,0,nisin O
+BGC0001650,0,Le-pyrrolopyrazines
+BGC0002638,0,misaugamycin A
+BGC0002638,1,misaugamycin B
+BGC0002138,0,fuelimycin A
+BGC0002138,1,fuelimicin B
+BGC0002138,2,fuelimicin C
+BGC0002567,0,EDHA
+BGC0000770,0,lipo-oligosaccharide
+BGC0002697,0,clipibicyclene
+BGC0002697,1,azabicyclene B
+BGC0002697,2,azabicyclene C
+BGC0002697,3,azabicyclene D
+BGC0000347,0,equibactin
+BGC0002024,0,nargenicin
+BGC0002450,0,sarasinoside
+BGC0000789,0,O-antigen
+BGC0001311,0,flavecins
+BGC0001764,0,s56-p1
+BGC0001678,0,mycosporine-like amino acids (MAAs)
+BGC0000739,0,capsular polysaccharide
+BGC0000732,0,capsular polysaccharide
+BGC0001188,0,legonaridin
+BGC0002726,0,4-chloropinselin
+BGC0002726,1,pinselin
+BGC0002726,2,chloromonilinic acid B
+BGC0002726,3,chloromonilinic acid D
+BGC0002726,4,4-hydroxyvertixanthone
+BGC0001879,0,type R and F tailocins
+BGC0002712,0,WS-5995 D
+BGC0002712,1,WS-5995 B
+BGC0002712,2,WS-5995 C
+BGC0002712,3,SEK 43
+BGC0000550,0,salivaricin G32
+BGC0001860,0,thiomuracin
+BGC0001170,0,clostridiolysin S
+BGC0001174,0,corynazolicin
+BGC0000788,0,O-antigen
+BGC0000735,0,capsular polysaccharide
+BGC0000737,0,capsular polysaccharide
+BGC0002467,0,thermochelin
+BGC0000793,0,lipopolysaccharide oligosaccharide
+BGC0001631,0,kasumigamide
+BGC0001357,6,carbamidocyclophane H
+BGC0001357,7,carbamidocyclophane M
+BGC0001357,8,carbamidocyclophane N
+BGC0001357,9,carbamidocyclophane O
+BGC0001357,10,carbamidocyclophane P
+BGC0001357,11,carbamidocyclophane Q
+BGC0001357,12,carbamidocyclophane R
+BGC0001357,13,carbamidocyclophane S
+BGC0001357,14,carbamidocyclophane T
+BGC0001357,15,carbamidocyclophane U
+BGC0001758,0,rhizomide A
+BGC0001758,1,rhizomide B
+BGC0001758,2,rhizomide C
+BGC0000576,0,rubrivinodin
+BGC0000488,0,circularin A
+BGC0002586,0,ASM1
+BGC0000601,0,sporulation killing factor
+BGC0000838,0,flexirubin
+BGC0000510,0,epilancin K7
+BGC0002306,0,freyrasin
+BGC0001228,0,retimycin A
+BGC0000932,1,hydroxytropodithietic acid
+BGC0001592,0,ferroverdin
+BGC0001592,1,bagremycin
+BGC0000803,0,GG exopolysaccharide
+BGC0002521,1,putisolvin VI
+BGC0000545,0,ruminococcin A
+BGC0002135,0,bovienimide A
+BGC0001947,0,K53 capsular polysaccharide
+BGC0001745,0,PlpA1
+BGC0001745,1,PlpA2
+BGC0001745,2,PlpA3
+BGC0002583,0,tryglysin B
+BGC0001620,4,ilamycin D
+BGC0001715,0,octapeptin C4
+BGC0000875,1,caprazamycin aglycon
+BGC0002535,0,"γ-poly-L-2,4-diaminobutyric acid"
+BGC0002021,1,fogacin B
+BGC0002021,2,fogacin C
+BGC0000531,0,mutacin I
+BGC0002718,0,madurastatin A2
+BGC0002718,1,madurastatin E1
+BGC0002718,2,madurastatin F
+BGC0002718,3,madurastatin G1
+BGC0002718,4,madurastatin A1
+BGC0001723,0,oviedomycin
+BGC0002566,0,"[S,S]-EDDS"
+BGC0000754,0,capsular polysaccharide
+BGC0002678,0,pyochelin
+BGC0000620,0,lacticin Q
+BGC0001284,0,alternariol
+BGC0001494,0,acinetodin
+BGC0001528,0,betaestacin
+BGC0000420,0,histidyltryptophanyldiketopiperazine
+BGC0000420,1,dehydrohistidyltryptophanyldiketopiperazine
+BGC0001998,0,aspernidgulene A1
+BGC0001998,1,aspernidgulene A2
+BGC0001998,2,aspernidgulene B1
+BGC0001812,0,tylactone
+BGC0000783,0,O-antigen
+BGC0000738,0,capsular polysaccharide
+BGC0001642,0,koraiol
+BGC0001725,0,oxetanocin A
+BGC0002390,0,zealexin A1
+BGC0001236,0,thiotetroamide
+BGC0002312,0,ubonodin
+BGC0001763,0,rufomycin
+BGC0000372,0,hexadehydroastechrome
+BGC0000372,2,astechrome
+BGC0001975,0,atratumycin
+BGC0001746,0,pristinol
+BGC0000431,0,stenothricin
+BGC0000471,0,viridisamide A
+BGC0000271,0,spore pigment
+BGC0002749,0,aspcandine
+BGC0002278,3,"2,2-dibenzylpiperazine"
+BGC0000120,0,patulin
+BGC0002685,0,enterobactin
+BGC0001595,0,fischerindole
+BGC0002344,0,A50926 A
+BGC0002344,1,A50926 B
+BGC0002081,2,streptoketide C
+BGC0002081,3,S2502
+BGC0002081,4,S2507
+BGC0002081,5,UWM5
+BGC0001962,1,hierridin C
+BGC0001730,0,paramagnetoquinone 1
+BGC0001730,1,paramagnetoquinone 2
+BGC0001421,0,myxochromide B
+BGC0000806,0,phosphonoglycans
+BGC0001360,0,mycophenolic acid
+BGC0001670,0,monensin
+BGC0001986,0,purincyclamide
+BGC0001918,0,JBIR-06
+BGC0001410,0,polysaccharide A
+BGC0002174,0,ε-Poly-L-lysine
+BGC0001948,1,C3-aryl pyrroloindolines
+BGC0002301,0,(P)-ustilaginoidin A
+BGC0002332,0,tetraketide resorcinols
+BGC0000401,0,paenibactin
+BGC0001395,0,teichomycin A1
+BGC0001417,0,myxochromide D
+BGC0002620,0,fulvivirgamide A2
+BGC0002620,1,fulvivirgamide B2
+BGC0002620,2,fulvivirgamide B3
+BGC0002620,3,fulvivirgamide B4
+BGC0002345,0,hydrogen cyanide
+BGC0002212,0,HEx-pks15 polyketide
+BGC0002702,0,GP6738
+BGC0001704,0,nocuolin A
+BGC0002085,1,everninomicin E
+BGC0002085,2,everninomicin G
+BGC0002085,3,everninomicin F
+BGC0002298,0,lassomycin-like peptide
