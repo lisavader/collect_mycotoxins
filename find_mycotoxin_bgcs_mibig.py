@@ -10,6 +10,9 @@ import chemspipy
 import csv
 from bs4 import BeautifulSoup
 
+#For access to ChemSpider an API key is needed (see: https://developer.rsc.org/get-started)
+chemspider_api_key = "" #<-- input your API key here
+
 class DatabaseID:
     """ An identifier within a database of chemical structures """
     def __init__(self,database,id):
@@ -59,12 +62,11 @@ class DatabaseID:
                 inchikey=response.json().get("inchikey")
 
             elif self.database == "chemspider":
-                #For access to ChemSpider an API key is needed (see: https://developer.rsc.org/get-started)
-                api_key = "" #<-- input your API key here
-                if not api_key:
+                global chemspider_api_key
+                if not chemspider_api_key:
                     logging.warning("No ChemSpider API key found")
-                    api_key = input("Enter ChemSpider API key:")
-                session=chemspipy.ChemSpider(api_key)
+                    chemspider_api_key = input("Enter ChemSpider API key:")
+                session=chemspipy.ChemSpider(chemspider_api_key)
                 compound=session.get_compound(self.id)
                 inchikey=compound.inchikey
 
