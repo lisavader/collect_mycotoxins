@@ -82,10 +82,11 @@ class DatabaseID:
 
 class Compound:
     """ A compound within the MIBiG database """
-    def __init__(self,mibig_accession,index,name):
+    def __init__(self,mibig_accession,index,name,organism):
         self.mibig_accession: str = mibig_accession
         self.index: int = index
         self.name: str = name
+        self.organism: str = organism
         self.database_ids: List[DatabaseID] = []
         self.inchikey: str = None
         self.mycotoxin: bool = False
@@ -110,7 +111,7 @@ class Compound:
 
     def summary(self) -> list:
         """ Create summary of compound properties """
-        summary=[self.mibig_accession,self.index,self.name,self.inchikey]
+        summary=[self.mibig_accession,self.organism,self.index,self.name,self.inchikey]
         return summary
 
 def prefilter_mibig_entries(mibig_path,mycotoxin_formulas):
@@ -164,13 +165,14 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
         with open(entry, 'r') as json_file:
             bgc_data = json.load(json_file)
 
+        organism_name=bgc_data["cluster"]["organism_name"]
         #Find all associated compounds
         compound_count=len(bgc_data["cluster"]["compounds"])
         for i in range(0,compound_count):
             try:
                 compound_name=bgc_data["cluster"]["compounds"][i]["compound"]
                 #Store compound info in a new Compound object
-                compound=Compound(mibig_accession,i,compound_name)
+                compound=Compound(mibig_accession,i,compound_name,organism_name)
                 #Retrieve a list of all database ids
                 id_list=bgc_data["cluster"]["compounds"][i]["database_id"]
                 #Store ids as DatabaseID objects, and add to database_ids attribute of the Compound object
@@ -209,7 +211,7 @@ def main(comptox_path,mibig_path):
     with open("mycotoxin_mibig_data.csv","w") as file:
         writer = csv.writer(file)
         #Write a header
-        header = ["MIBiG Accession","Compound Index","Compound Name","Inchikey"]
+        header = ["MIBiG Accession","Organism","Compound Index","Compound Name","Inchikey"]
         writer.writerow(header)
         writer.writerows(mycotoxin_mibig_data)
 
