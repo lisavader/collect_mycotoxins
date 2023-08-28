@@ -63,10 +63,10 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
         #Find all associated compounds
         compound_count=len(bgc_data["cluster"]["compounds"])
         for i in range(0,compound_count):
+            compound_name=bgc_data["cluster"]["compounds"][i]["compound"]
+            #Store compound info in a new Compound object
+            compound=Compound(mibig_accession,i,compound_name,organism_name)
             try:
-                compound_name=bgc_data["cluster"]["compounds"][i]["compound"]
-                #Store compound info in a new Compound object
-                compound=Compound(mibig_accession,i,compound_name,organism_name)
                 #Retrieve a list of all database ids
                 id_list=bgc_data["cluster"]["compounds"][i]["database_id"]
                 #Store ids as DatabaseID objects, and add to database_ids attribute of the Compound object
