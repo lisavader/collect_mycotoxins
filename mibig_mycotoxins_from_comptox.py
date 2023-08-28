@@ -76,7 +76,8 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
                 #If the compound is a mycotoxin, store compound properties (MIBiG ID, organism, index, name and inchikey)
                 compound.mycotoxin_from_inchikey(mycotoxin_inchikeys)
                 if compound.mycotoxin == True:
-                    mycotoxin_mibig_data.append(compound.summary())
+                    summary=[compound.mibig_accession,compound.organism,compound.index,compound.name,compound.inchikey]
+                    mycotoxin_mibig_data.append(summary)
 
             #Keep track of compounds without any database id
             except KeyError:
@@ -90,7 +91,7 @@ def get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys):
     return(mycotoxin_mibig_data)
 
 
-def main(comptox_path,mibig_path):
+def main(comptox_path,mibig_path,output_path):
     #Load CompTox table with mycotoxin data
     print("Loading mycotoxin data from CompTox table...")
     comptox_mycotoxins=pd.read_csv(comptox_path)
@@ -102,13 +103,12 @@ def main(comptox_path,mibig_path):
     #Find which MiBIG entries are linked to mycotoxin production
     mycotoxin_mibig_data=get_mycotoxin_mibig_data(filtered_entries,mycotoxin_inchikeys)
     #Save as csv
-    with open("mycotoxin_mibig_data.csv","w") as file:
+    with open(output_path,"w") as file:
         writer = csv.writer(file)
         #Write a header
         header = ["MIBiG Accession","Organism","Compound Index","Compound Name","Inchikey"]
         writer.writerow(header)
         writer.writerows(mycotoxin_mibig_data)
-
 
 if __name__ == "__main__":
     #Argument parsing
@@ -117,9 +117,10 @@ if __name__ == "__main__":
                                                         " CompTox list of mycotoxins"
                                                         " (url:https://comptox.epa.gov/dashboard/chemical-lists/MYCOTOX2)"))
     parser.add_argument("mibig_path", type=str, help="Path to a MIBiG database of annotations in .json format")
+    parser.add_argument("output_path", type=str, help="Path to write output to in .csv format")
     parser.add_argument("-v","--verbose",help="Enable verbose mode",action="store_const",const=logging.INFO,dest="loglevel")
     args = parser.parse_args()
     #Set logging level
     logging.basicConfig(level=args.loglevel)
     #Run the main script
-    main(args.comptox_path,args.mibig_path)
+    main(args.comptox_path,args.mibig_path,args.output_path)
