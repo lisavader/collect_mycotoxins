@@ -1,6 +1,7 @@
 import requests
 import time
 import chemspipy
+import re
 import logging
 from bs4 import BeautifulSoup
 
@@ -109,12 +110,14 @@ class Compound:
             self.mycotoxin = False
         return self.mycotoxin
 
-    def mycotoxin_from_name(self,mycotoxin_names):
-        if self.name in mycotoxin_names:
-            self.mycotoxin = True
+    def mycotoxin_from_name(self,mycotoxin_names,exact_match = False):
+        for mycotoxin_name in mycotoxin_names:
+            if exact_match == True:
+                if mycotoxin_name.casefold() == self.name.casefold():
+                    self.mycotoxin = True
+            elif exact_match == False:   #partial match (e.g. matches aflatoxin in compound name 'Aflatoxin A')
+                if re.search(mycotoxin_name,self.name,re.IGNORECASE):
+                    self.mycotoxin = True
+        if self.mycotoxin != True:
+            self.mycotoxin = False
         return self.mycotoxin
-
-    def summary(self) -> list:
-        """ Create summary of compound properties """
-        summary=[self.mibig_accession,self.organism,self.index,self.name,self.inchikey]
-        return summary
