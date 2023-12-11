@@ -1,44 +1,114 @@
-MIBiG Accession,Organism,Compound Index,Compound Name
-BGC0002502,Fusarium fujikuroi,0,fumonisin B3
-BGC0002502,Fusarium fujikuroi,1,fumonisin B2
-BGC0002502,Fusarium fujikuroi,2,fumonisin B1
-BGC0000006,Aspergillus flavus,0,aflatoxin
-BGC0000930,Fusarium graminearum,0,deoxynivalenol
-BGC0000007,Aspergillus flavus,0,aflatoxin
-BGC0001030,Penicillium nordicum,0,ochratoxin A
-BGC0001400,Aspergillus terreus NIH2624,0,citreoviridin
-BGC0000063,Fusarium oxysporum,0,fumonisin
-BGC0000152,Aspergillus nidulans,0,sterigmatocystin
-BGC0002598,Aspergillus westerdijkiae,0,ochratoxin A
-BGC0001278,Fusarium sporotrichioides,0,nivalenol
-BGC0001278,Fusarium sporotrichioides,1,deoxynivalenol
-BGC0001278,Fusarium sporotrichioides,2,3-acetyldeoxynivalenol
-BGC0001278,Fusarium sporotrichioides,3,15-acetyldeoxynivalenol
-BGC0001278,Fusarium sporotrichioides,4,neosolaniol
-BGC0001278,Fusarium sporotrichioides,9,T-2 toxin
-BGC0001278,Fusarium sporotrichioides,10,3-acetyl T-2 toxin
-BGC0002605,Aspergillus carbonarius,0,ochratoxin A
-BGC0001277,Fusarium graminearum,0,nivalenol
-BGC0001277,Fusarium graminearum,2,3-acetyldeoxynivalenol
-BGC0001277,Fusarium graminearum,3,15-acetyldeoxynivalenol
-BGC0001277,Fusarium graminearum,4,neosolaniol
-BGC0001277,Fusarium graminearum,9,T-2 toxin
-BGC0001277,Fusarium graminearum,10,3-acetyl T-2 toxin
-BGC0002606,Aspergillus niger,0,ochratoxin A
-BGC0000120,Penicillium expansum,0,patulin
-BGC0001057,Fusarium graminearum,0,zearalenone
-BGC0000010,Aspergillus flavus,0,aflatoxin
-BGC0000009,Aspergillus nomius,0,aflatoxin
-BGC0002709,Fusarium graminearum PH-1,0,aurofusarin
-BGC0000004,Aspergillus oryzae,0,aflatoxin G1
-BGC0000062,Fusarium verticillioides,0,fumonisin B1
-BGC0001338,Monascus ruber,0,citrinin
-BGC0000064,Fusarium verticillioides,0,fusarin
-BGC0002607,Aspergillus westerdijkiae,0,ochratoxin A
-BGC0001268,Fusarium fujikuroi,0,fusarin C
-BGC0000894,Monascus aurantiacus,0,citrinin
-BGC0002176,Fusarium graminearum PH-1,2,15-acetyldeoxynivalenol
-BGC0000011,Aspergillus ochraceoroseus,0,sterigmatocystin
-BGC0000008,Aspergillus flavus,0,aflatoxin
-BGC0002609,Aspergillus welwitschiae,0,ochratoxin A
-BGC0002608,Aspergillus steynii,0,ochratoxin A
+query,match,mibig_accession,organism,compound_index
+ochratoxin,ochratoxin A,BGC0002609,Aspergillus welwitschiae,0
+paxilline,paxilline,BGC0001082,Penicillium paxilli,0
+paxilline,13-dehydroxypaxilline,BGC0001082,Penicillium paxilli,2
+ochratoxin,ochratoxin A,BGC0002598,Aspergillus westerdijkiae,0
+cyclopiazonic acid,cyclopiazonic acid,BGC0001874,Aspergillus flavus,0
+trypacidin,trypacidin,BGC0001403,Aspergillus fumigatus Af293,0
+fumonisin,fumonisin B1,BGC0000062,Fusarium verticillioides,0
+cytochalasin,cytochalasin E,BGC0000983,Aspergillus clavatus NRRL 1,0
+cytochalasin,cytochalasin K,BGC0000983,Aspergillus clavatus NRRL 1,1
+citrinin,citrinin,BGC0000894,Monascus aurantiacus,0
+ochratoxin,ochratoxin A,BGC0001030,Penicillium nordicum,0
+ergotamine,ergotamine,BGC0001241,Claviceps fusiformis,0
+culmorin,culmorin,BGC0002176,Fusarium graminearum PH-1,0
+deoxynivalenol,15-acetyldeoxynivalenol,BGC0002176,Fusarium graminearum PH-1,2
+mycophenolic acid,mycophenolic acid,BGC0002616,Penicillium roqueforti,0
+mycophenolic acid,mycophenolic acid,BGC0001677,Penicillium roqueforti,0
+aflatoxin,aflatoxin G1,BGC0000004,Aspergillus oryzae,0
+fumagillin,fumagillin,BGC0001067,Aspergillus fumigatus Af293,0
+aflatoxin,aflatoxin,BGC0000008,Aspergillus flavus,0
+citreoviridin,citreoviridin,BGC0001400,Aspergillus terreus NIH2624,0
+beauvericin,beauvericin,BGC0000313,Beauveria bassiana,0
+verrucosidin,verrucosidin,BGC0002745,Penicillium polonicum,0
+ergotamine,ergotamine,BGC0002232,Claviceps purpurea 20.1,0
+sterigmatocystin,sterigmatocystin,BGC0000152,Aspergillus nidulans,0
+ochratoxin,ochratoxin A,BGC0002606,Aspergillus niger,0
+fumonisin,fumonisin B3,BGC0002502,Fusarium fujikuroi,0
+fumonisin,fumonisin B2,BGC0002502,Fusarium fujikuroi,1
+fumonisin,fumonisin B1,BGC0002502,Fusarium fujikuroi,2
+nivalenol,nivalenol,BGC0001277,Fusarium graminearum,0
+deoxynivalenol,3-acetyldeoxynivalenol,BGC0001277,Fusarium graminearum,2
+deoxynivalenol,15-acetyldeoxynivalenol,BGC0001277,Fusarium graminearum,3
+neosolaniol,neosolaniol,BGC0001277,Fusarium graminearum,4
+t-2,T-2 toxin,BGC0001277,Fusarium graminearum,9
+t-2,3-acetyl T-2 toxin,BGC0001277,Fusarium graminearum,10
+deoxynivalenol,deoxynivalenol,BGC0000930,Fusarium graminearum,0
+alternariol,alternariol,BGC0000013,Aspergillus nidulans FGSC A4,0
+emodin,emodin,BGC0001583,Escovopsis weberi,0
+phomacin,phomacin D,BGC0002205,Parastagonospora nodorum SN15,0
+phomacin,phomacin E,BGC0002205,Parastagonospora nodorum SN15,1
+aflatoxin,aflatoxin,BGC0000010,Aspergillus flavus,0
+ochratoxin,ochratoxin A,BGC0002608,Aspergillus steynii,0
+aflatoxin,aflatoxin,BGC0000006,Aspergillus flavus,0
+fusarin,fusarin,BGC0000064,Fusarium verticillioides,0
+sterigmatocystin,sterigmatocystin,BGC0000011,Aspergillus ochraceoroseus,0
+aflatoxin,aflatoxin,BGC0000007,Aspergillus flavus,0
+fusarin,fusarin C,BGC0001268,Fusarium fujikuroi,0
+chaetoglobosin,chaetoglobosins,BGC0001182,Chaetomium globosum CBS 148.51,0
+penitrem,penitremane,BGC0002618,Penicillium crustosum,0
+fumonisin,fumonisin,BGC0000063,Fusarium oxysporum,0
+verruculogen,verruculogen,BGC0000356,Aspergillus fumigatus,0
+fumitremorgin,fumitremorgin B,BGC0000356,Aspergillus fumigatus,1
+fumitremorgin,fumitremorgin c,BGC0000356,Aspergillus fumigatus,2
+fumitremorgin,demethoxyfumitremorgin C,BGC0000356,Aspergillus fumigatus,5
+mycophenolic acid,mycophenolic acid,BGC0001360,Penicillium roqueforti FM164,0
+cyclosporin,cyclosporin,BGC0000334,Tolypocladium inflatum NRRL 8044,0
+mycophenolic acid,mycophenolic acid,BGC0002619,Penicillium brevicompactum,0
+cyclosporin,cyclosporin C,BGC0001565,Beauveria felina,0
+aflatoxin,aflatoxin,BGC0000009,Aspergillus nomius,0
+alternariol,alternariol,BGC0001284,Parastagonospora nodorum SN15,0
+mycophenolic acid,mycophenolic acid,BGC0000104,Penicillium brevicompactum,0
+tenuazonic acid,tenuazonic acid,BGC0002158,Pyricularia oryzae 70-15,0
+roquefortine,roquefortine D,BGC0000420,Penicillium rubens Wisconsin 54-1255,2
+roquefortine,roquefortine C,BGC0000420,Penicillium rubens Wisconsin 54-1255,3
+nivalenol,nivalenol,BGC0001278,Fusarium sporotrichioides,0
+deoxynivalenol,deoxynivalenol,BGC0001278,Fusarium sporotrichioides,1
+deoxynivalenol,3-acetyldeoxynivalenol,BGC0001278,Fusarium sporotrichioides,2
+deoxynivalenol,15-acetyldeoxynivalenol,BGC0001278,Fusarium sporotrichioides,3
+neosolaniol,neosolaniol,BGC0001278,Fusarium sporotrichioides,4
+t-2,T-2 toxin,BGC0001278,Fusarium sporotrichioides,9
+t-2,3-acetyl T-2 toxin,BGC0001278,Fusarium sporotrichioides,10
+janthitrem,epoxy-Janthitrems,BGC0002444,Epichloe sp. LpTG-3,0
+secalonic acid,secalonic acids,BGC0001886,Claviceps purpurea 20.1,0
+flavichalasin,flavichalasine F,BGC0002204,Aspergillus flavipes,0
+flavichalasin,flavichalasine G,BGC0002204,Aspergillus flavipes,1
+citrinin,citrinin,BGC0001338,Monascus ruber,0
+zearalenone,zearalenone,BGC0001057,Fusarium graminearum,0
+chaetoglobosin,chaetoglobosin A,BGC0000968,Penicillium expansum,0
+chaetoglobosin,chaetoglobosin C,BGC0000968,Penicillium expansum,1
+chaetoglobosin,chaetoglobosin P,BGC0002539,Discosia rubi,0
+chaetoglobosin,chaetoglobosin K,BGC0002539,Discosia rubi,1
+chaetoglobosin,chaetoglobosin A,BGC0002539,Discosia rubi,2
+ochratoxin,ochratoxin A,BGC0002607,Aspergillus westerdijkiae,0
+penitrem,penitrem A,BGC0001375,Penicillium simplicissimum,0
+penitrem,penitrem B,BGC0001375,Penicillium simplicissimum,1
+penitrem,penitrem C,BGC0001375,Penicillium simplicissimum,2
+penitrem,penitrem D,BGC0001375,Penicillium simplicissimum,3
+penitrem,penitrem E,BGC0001375,Penicillium simplicissimum,4
+penitrem,penitrem F,BGC0001375,Penicillium simplicissimum,5
+pr-toxin,PR-toxin,BGC0000667,Penicillium roqueforti FM164,0
+ochratoxin,ochratoxin A,BGC0002605,Aspergillus carbonarius,0
+fusaric acid,fusaric acid,BGC0001190,Fusarium verticillioides 7600,0
+cyclopiazonic acid,cyclopiazonic acid,BGC0000977,Aspergillus oryzae,0
+patulin,patulin,BGC0000120,Penicillium expansum,0
+enniatin,enniatin,BGC0000342,Fusarium equiseti,0
+fusarin,aurofusarin,BGC0002709,Fusarium graminearum PH-1,0
+nitropropionic acid,NA,NA,NA,NA
+ht-2,NA,NA,NA,NA
+diacetoxyscirpenol,NA,NA,NA,NA
+fusarenon,NA,NA,NA,NA
+aflatrem,NA,NA,NA,NA
+altertoxin,NA,NA,NA,NA
+butenolide,NA,NA,NA,NA
+cladofulvin,NA,NA,NA,NA
+diplodiatoxin,NA,NA,NA,NA
+diplonine,NA,NA,NA,NA
+dipmatol,NA,NA,NA,NA
+gliotoxin,NA,NA,NA,NA
+fusaproliferin,NA,NA,NA,NA
+lolitrem,NA,NA,NA,NA
+luteoskyrin,NA,NA,NA,NA
+moniliformin,NA,NA,NA,NA
+paspalitrem,NA,NA,NA,NA
+penicillic acid,NA,NA,NA,NA

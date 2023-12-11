@@ -85,6 +85,7 @@ class Compound:
         self.database_ids: List[DatabaseID] = []
         self.inchikey: str = None
         self.mycotoxin: bool = None
+        self.query: str = None
 
     def inchikey_from_database(self):
         """ Use associated database ids to find the inchikey"""
@@ -115,9 +116,13 @@ class Compound:
             if exact_match == True:
                 if mycotoxin_name.casefold() == self.name.casefold():
                     self.mycotoxin = True
+                    break
             elif exact_match == False:   #partial match (e.g. matches aflatoxin in compound name 'Aflatoxin A')
                 if re.search(mycotoxin_name,self.name,re.IGNORECASE):
                     self.mycotoxin = True
-        if self.mycotoxin != True:
+                    break
+        if self.mycotoxin == True:
+            self.query = mycotoxin_name
+        else:
             self.mycotoxin = False
         return self.mycotoxin
