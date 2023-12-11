@@ -9,7 +9,7 @@ import re
 from mibig_classes import Compound
 
 mycotoxins_tier1 = ["aflatoxin","citreoviridin","citrinin","fumonisin","fusarin","nitropropionic acid","ochratoxin","patulin",
-                   "sterigmatocystin","t-2","ht-2","neosolaniol","diacetoxyscirpenol","deoxynivalenol","nivalenol",
+                   "sterigmatocystin","t-2","neosolaniol","diacetoxyscirpenol","deoxynivalenol","nivalenol",
                    "fusarenon","zearalenone"]
 mycotoxins_tier2 = ["aflatrem","alternariol","altertoxin","beauvericin","butenolide","cladofulvin","culmorin","cyclopiazonic acid",
                     "cyclosporin","cytochalasin","chaetoglobosin","phomacin","flavichalasin","diplodiatoxin","diplonine","dipmatol","emodin",
